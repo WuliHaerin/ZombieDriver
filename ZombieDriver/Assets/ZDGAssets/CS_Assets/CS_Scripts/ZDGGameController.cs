@@ -628,9 +628,8 @@ namespace ZombieDriveGame
 				}
 			}
 
-            AdManager.ShowInterstitialAd("1lcaf5895d5l1293dc",
+            AdManager.ShowInterstitialAd("b1kdl67d4iid12biop",
             () => {
-                Debug.LogError("--插屏广告完成--");
 
             },
             (it, str) => {

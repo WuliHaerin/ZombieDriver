@@ -15,7 +15,7 @@ public class Ad : MonoBehaviour
     // Update is called once per frame
     public void ClickBtn()
     {
-        AdManager.ShowVideoAd("192if3b93qo6991ed0",
+        AdManager.ShowVideoAd("kfg3f9292eg41lvjpm",
             (bol) => {
                 if (bol)
                 {
